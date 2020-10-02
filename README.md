@@ -18,3 +18,12 @@ Most of these project is private repos but they are all hosted on the web so go 
 ### https://cvfixarn.se/
 ### https://mynotesapplication.herokuapp.com/
 ### https://mobiljakt.nu/
+
+
+## More projects built by me
+
+### https://pay.paymentiq.io/cashier-config/configs
+### https://cashier-demo.paymentiq.io/
+
+
+There are lots of more projects that i'm not allowed to display here due to business policies.
