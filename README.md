@@ -1,4 +1,4 @@
-# Some projects built by me.. (Not always up to date)
+# Some projects built by me.. (This is not always up to date)
 
 Most of these project is private repos but they are all hosted on the web so go on and take a look. :)
 
@@ -17,10 +17,10 @@ Most of these project is private repos but they are all hosted on the web so go 
 
 ## Hosted URL's
 
+### https://goozt.herokuapp.com (dynamic ecommerce page with a backend product crawler)
 ### https://www.jobflix.se/
 ### https://logomaster.io/
 ### https://cvfixarn.se/
-### https://mynotesapplication.herokuapp.com/
 ### https://mobiljakt.nu/
 
 
@@ -28,7 +28,7 @@ Most of these project is private repos but they are all hosted on the web so go 
 
 ### https://pay.paymentiq.io/cashier-config/configs
 ### https://cashier-demo.paymentiq.io/
-### https://gallant-bhabha-93a576.netlify.app/ (Dynamic and configurable loan calculator)
+### https://gallant-bhabha-93a576.netlify.app/config (Dynamic and configurable loan calculator for Santander)
 
 
 There are lots of more projects that i'm not allowed to display here due to business policies.
