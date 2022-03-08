@@ -17,18 +17,18 @@ Most of these project is private repos but they are all hosted on the web so go 
 
 ## Hosted URL's
 
-### https://goozt.herokuapp.com (dynamic ecommerce page with a backend product crawler)
-### https://www.jobflix.se/
-### https://logomaster.io/
-### https://cvfixarn.se/
-### https://mobiljakt.nu/
+### https://goozt.herokuapp.com (dynamic ecommerce page with a backend product crawler) # 2021
+### https://www.jobflix.se/ # 2018
+### https://logomaster.io/ # 2018
+### https://cvfixarn.se/ # 2018
+### https://mobiljakt.nu/ # 2018
 
 
 ## More projects built by me
 
-### https://pay.paymentiq.io/cashier-config/configs
-### https://cashier-demo.paymentiq.io/
-### https://gallant-bhabha-93a576.netlify.app/config (Dynamic and configurable loan calculator for Santander)
+### https://pay.paymentiq.io/cashier-config/configs # 2019
+### https://cashier-demo.paymentiq.io/ # 2019
+### https://gallant-bhabha-93a576.netlify.app/config (Dynamic and configurable loan calculator for Santander) # 2020
 
 
 There are lots of more projects that i'm not allowed to display here due to business policies.
