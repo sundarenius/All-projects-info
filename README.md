@@ -28,7 +28,7 @@ Most of these project is private repos but they are all hosted on the web so go 
 
 ### https://pay.paymentiq.io/cashier-config/configs # 2019
 ### https://cashier-demo.paymentiq.io/ # 2019
-### https://pay.paymentiq.io/cashier/master/?environment=test # (2019 - 2022)
+### https://pay.paymentiq.io/cashier/master/?environment=test # (2019 - 2022) [multi dynamic configurable cashier with SDK]
 ### https://gallant-bhabha-93a576.netlify.app/config (Dynamic and configurable loan calculator for Santander) # 2020
 
 
